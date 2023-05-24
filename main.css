@@ -24,6 +24,10 @@
     margin: 8px;
 }
 
+.navbar-brand {
+    font-size: 32px;
+}
+
 @media screen and (max-width: 640px) {
     .cards {
         display: block;
